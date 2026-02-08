@@ -1,6 +1,6 @@
 This is a very simple library designed to control I2C 14SegmentDisplays
 
-**Note this project was written by the help of an AI so expect some issues**
+**Note this project was written for 14segment displays only**
 
 1. How to Use:
    
