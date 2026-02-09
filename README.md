@@ -17,6 +17,6 @@ This is a very simple library designed to control I2C 14SegmentDisplays
    otherwise.
 
 
-   Have FUN!!!
+   
 
    
